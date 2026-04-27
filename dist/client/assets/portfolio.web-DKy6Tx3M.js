@@ -1,0 +1,1 @@
+import{j as e}from"./index-CTJrKtLM.js";import{P as o,a as t}from"./portfolio-CZpvhLJq.js";import"./SectionHeading-DVk9AjUY.js";import"./work-restaurant-DrpX6zSM.js";const a=()=>e.jsx(o,{title:e.jsx("span",{className:"text-gradient-brand",children:t.web.title}),subtitle:t.web.subtitle,sections:t.web.sections});export{a as component};

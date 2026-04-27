@@ -1,0 +1,1 @@
+import{c as o}from"./index-CTJrKtLM.js";const t=[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]],s=o("check",t),c="201011342972";function p(e){const n=encodeURIComponent(e);return`https://wa.me/${c}?text=${n}`}function a(e){window.open(p(e),"_blank","noopener,noreferrer")}export{s as C,a as o};

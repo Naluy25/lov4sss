@@ -1,0 +1,1 @@
+import{j as s}from"./index-CTJrKtLM.js";import{P as e,a as t}from"./portfolio-CZpvhLJq.js";import"./SectionHeading-DVk9AjUY.js";import"./work-restaurant-DrpX6zSM.js";const a=()=>s.jsx(e,{title:s.jsx("span",{className:"text-gradient-brand",children:t.design.title}),subtitle:t.design.subtitle,sections:t.design.sections});export{a as component};
